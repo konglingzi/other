@@ -1,3 +1,1 @@
 a.txt  projectProfile.txt
-git 是管理修改的
-阿斯顿发生
